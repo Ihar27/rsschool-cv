@@ -3,16 +3,12 @@
 I found myself interested in programming, especially in web development.\
 I see myself working as a full stack developer in future. But first I'm going to finish the RRSchool!
 
----
-
 ## **Contacts**
 
 1. Minsk, Belarus
 2. Phone: +375 29 368-92-00
 3. Discord: Ihar_bbd (@Ihar27)
 4. E-mail: igorbabodey27@gmail.com
-
----
 
 ## **Education**
 
@@ -27,8 +23,6 @@ Manager-economist
 **2009-2014\
 BSU, Minsk (Faculty of chemistry)**\
 Chemist-pharmacist
-
----
 
 ## **Employment history**
 
@@ -53,8 +47,6 @@ Chemist-pharmacist
 - Managing sales efforts
 - Keeping detailed records of all contacts
 
----
-
 ## **Skills**
 
 - HTML5
@@ -66,12 +58,10 @@ Chemist-pharmacist
 ```
 const interviewInvitation = () => {
     alert('Do not forget to send an email');
-    alert('You can find it in contacts');
+    alert('More information in contacts');
 };
 interviewInvitation();
 ```
-
----
 
 ## **Languages**
 
