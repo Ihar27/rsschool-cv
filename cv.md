@@ -1,5 +1,10 @@
 # Igor Babodey
 
+I found myself interested in programming, especially in web development.\
+I see myself working as a full stack developer in future. But first I'm going to finish the RRSchool!
+
+---
+
 ## **Contacts**
 
 1. Minsk, Belarus
@@ -7,19 +12,23 @@
 3. Discord: Ihar_bbd (@Ihar27)
 4. E-mail: igorbabodey27@gmail.com
 
+---
+
 ## **Education**
 
-2021-now\
-Rolling Scope School\
+**2021-now\
+Rolling Scope School**\
 Student
 
-2014-2016\
-IBMT, Minsk (Faculty of economics)\
+**2014-2016\
+IBMT, Minsk (Faculty of economics)**\
 Manager-economist
 
-2009-2014\
-BSU, Minsk (Faculty of chemistry)\
+**2009-2014\
+BSU, Minsk (Faculty of chemistry)**\
 Chemist-pharmacist
+
+---
 
 ## **Employment history**
 
@@ -43,3 +52,30 @@ Chemist-pharmacist
 - Communicating with and persuading targeted doctors and pharmacists
 - Managing sales efforts
 - Keeping detailed records of all contacts
+
+---
+
+## **Skills**
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- React
+
+```
+const interviewInvitation = () => {
+    alert('Do not forget to send an email');
+    alert('You can find it in contacts');
+};
+interviewInvitation();
+```
+
+---
+
+## **Languages**
+
+- Belarusian (native)
+- Russian (proficient)
+- English (IELTS 6.0)
+- Norwegian (B1)
