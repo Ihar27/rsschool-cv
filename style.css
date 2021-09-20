@@ -76,7 +76,6 @@ section {
   display: flex;
   align-items: center;
   border-bottom: solid #0b4f6c 2px;
-  /* border-bottom: ; */
 }
 .about-info p {
   margin: 10px;
@@ -127,9 +126,9 @@ section.cont {
   max-height: 70px;
   text-align: center;
 }
-h1,
 h2 {
   color: #1f271b;
+  padding: 5px 0px;
 }
 p span {
   padding-left: 30px;
