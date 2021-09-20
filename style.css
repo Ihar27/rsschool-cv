@@ -76,6 +76,7 @@ section {
   display: flex;
   align-items: center;
   border-bottom: solid #0b4f6c 2px;
+  /* border-bottom: ; */
 }
 .about-info p {
   margin: 10px;
